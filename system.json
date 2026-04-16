@@ -34,6 +34,6 @@
   "background": "assets/icons/pte_banner.png",
   "gridDistance": 1,
   "gridUnits": "m",
-"primaryTokenAttribute": "system.hp",
-"secondaryTokenAttribute": "system.attack"
+"primaryTokenAttribute": "system.stats.health.value",
+"secondaryTokenAttribute": "system.stats.health.maximum"
 }
