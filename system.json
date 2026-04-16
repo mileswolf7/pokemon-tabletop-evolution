@@ -14,7 +14,7 @@
   "changelog": "https://github.com/radiant-starshine/pokemon-tabletop-evolution/raw/main/changelog.md",
   "version": "0.0.1",
   "compatibility": {
-    "minimum": 11,
+    "minimum": "11",
     "verified": "11.315"
   },
   "esmodules": [ "module/pte.mjs" ],
