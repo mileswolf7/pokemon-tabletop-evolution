@@ -31,7 +31,7 @@
   "socket": false,
   "manifest": "https://github.com/radiant-starshine/pokemon-tabletop-evolution/releases/latest/download/system.json",
   "download": "https://github.com/radiant-starshine/pokemon-tabletop-evolution/releases/latest/download/system.zip",
-  "background": "systems/pte/assets/pte_banner.png",
+  "background": "assets/icons/pte_banner.png",
   "gridDistance": 1,
   "gridUnits": "m",
 "primaryTokenAttribute": "system.hp",
